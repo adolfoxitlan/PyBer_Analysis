@@ -4,4 +4,4 @@ Using your Python skills and knowledge of Pandas, you’ll create a summary Data
 
 In the following chart we can observer that Urban rides are low fare but many, the difference is exponation compare to Rural letting Suburban righ in the middle.
 
-![name-of-you-image](https://github.com/adolfoxitlan/PyBer_Analysis/Resources/DriversvsRides.PNG)
+![name-of-you-image](https://github.com/adolfoxitlan/PyBer_Analysis/blob/d16df98e828632182b1fd284af3432887749369a/Resources/DriversvsRides.PNG)
