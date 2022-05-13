@@ -8,4 +8,12 @@ In the following chart, we can observe that Urban rides are low fare but many, t
 
 Also, we can see that even though the Urban rides are the most in terms of fares, there are a lot of drivers that don't get any rides.
 
-![name-of-you-image]()
+![name-of-you-image](https://github.com/adolfoxitlan/PyBer_Analysis/blob/d3b36a90765273457927fe23625a6e2395a5789c/Resources/Graph.PNG)
+
+Now, using the graph, we can see the behavior of the rates, and we see that it is very similar throughout the year in the three service
+
+
+After the analysis, we can deduct that:
+- Moving drivers from Urban to Rural, like hot zone timeframes.
+- Save gasoline and resources by limiting rural rides only to the beginning and end of the month.
+- For Urban and Suburban we can add a new service like delivery for drivers not in rides.
